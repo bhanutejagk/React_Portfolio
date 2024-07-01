@@ -13,7 +13,7 @@ export const Bio = {
     linkedin: "https://www.linkedin.com/in/bhanutejagk/",
     twitter: "https://x.com/BhanuTeja_Gk",
     insta: "https://www.instagram.com/bhanu_teja.g/",
-    facebook: "https://www.facebook.com/rishav.chanda.165/",
+    facebook: "https://www.facebook.com/G.Bhanuteja01/",
   };
   
   export const skills = [
