@@ -157,7 +157,7 @@ const ResumeButton = styled.a`
     -moz-appearance: button;
     appearance: button;
     text-decoration: none;
-    width: 95%;
+    width: 85%;
     max-width: 300px;
     text-align: center;
     padding: 16px 0;
